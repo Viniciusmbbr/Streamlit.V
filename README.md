@@ -78,4 +78,4 @@ O objetivo foi implementar um dashboard completo com Streamlit, cobrindo os trê
 
 ## 👨‍💻 Autor
 
-**Vinicius** — [github.com/seu-usuario](https://github.com/seu-usuario)**
+**Vinicius** — [github.com/seu-usuario](https://github.com/Viniciusmbbr)**
